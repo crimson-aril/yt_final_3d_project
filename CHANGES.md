@@ -10,17 +10,12 @@ The site has been reshaped into a responsive portfolio with a scroll-controlled 
 
 ![Responsive layout](src/assets/responsive.gif)
 
-![Large-screen view](src/assets/big_screen_test.gif)
-
-![iPhone 16 Pro Max view](src/assets/small_screen_test.gif)
 
 ### Offline image fallbacks
 
 When remote images are offline or fail to load, gray placeholders remain visible while the rest of the page and carousel continue rendering.
 
 ![Large-screen image fallback](src/assets/big_screen_place_holder.gif)
-
-![iPhone 16 Pro Max image fallback](src/assets/small_screen_place_holder.gif)
 
 ## Detailed Breakdown
 
